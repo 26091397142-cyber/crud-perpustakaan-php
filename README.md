@@ -5,7 +5,7 @@ Implementasi Studi Kasus 1 Praktikum Basis Data menggunakan PHP Native, PDO, MyS
 ## Tampilan Hasil Pengujian
 
 ### 1. Halaman Daftar Buku (Read)
-![Daftar Buku](hasil/1-Buka-Halaman-Buku.png)
+![Daftar Buku](Hasil/1-Buka-Halaman-Buku.png)
 
 ### 2. Pencarian Buku
 ![Cari Buku](hasil/2 (Pencarian Data).png)
